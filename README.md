@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science and Statistics
 - 🌱 I’m currently learning Python for Data Science
 - 📫 How to reach me priscilalourinho@gmail.com
+- [![author](https://img.shields.io/badge/author-priscilalourinho-blue.svg)](https://www.linkedin.com/in/priscilalourinho/)
 
 Sou Priscila Lourinho, tenho 31 anos e construi toda a minha carreira profissional em gestão de operações (distribuição de combustíveis, lubrificantes industriais e, atualmente, sou a coordenadora das oprações no Zé Delivery 💛
 
