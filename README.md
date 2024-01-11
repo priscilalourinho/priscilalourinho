@@ -4,16 +4,10 @@
 - 📫 How to reach me priscilalourinho@gmail.com
 - [![author](https://img.shields.io/badge/author-priscilalourinho-blue.svg)](https://www.linkedin.com/in/priscilalourinho/)
 
-Sou Priscila Lourinho, tenho 31 anos e construi toda a minha carreira profissional em gestão de operações (distribuição de combustíveis, lubrificantes industriais e, atualmente, sou a coordenadora das operações no Zé Delivery 💛
+I am a multilingual business professional with a strong data-driven approach to problem-solving. With fluency in English, French, German, and Portuguese, I offer a global perspective and thrive in diverse environments.
 
-Nessa trajetória, que foi iniciada em 2013, sempre precisei lidar com muitos dados em níveis de granularidade diferentes.
+Having worked across diverse industries, from oil and gas to innovative startups, I conduct comprehensive research and analysis to craft effective solutions for business problems. I have a successful track record of implementing these solutions for businesses and their clients. 
 
-Costumo dizer que toda operação funciona como um organismo vivo que deve ser constantemente monitorado para garantir que diagnósticos prévios sejam feitos de forma a evitar estresses de sistema, além da identificação de melhorias em processos e redução de custos. 
-
-Foi nesse contexto que percebi que estava mergulhando, cada vez mais, no universo de dados e resolvi fazer esse bootcamp, a experiência tem sido sensacional.
-
-Sou graduada em Engenharia de Produção pelo CEFET/RJ, com um MBA em Agronegócios pela USP/ESALQ. Atualmente, em paralelo com o bootcamp, estou cursando um MBA em Digital Business também pela USP/ESALQ. 
-
-Estudar e aprender é uma das minhas paixões. 
+With an MBA in agribusiness and a bachelor's degree in industrial engineering, I possess a versatile skill set to address complex challenges with ingenuity. Committed to driving innovation and excellence, I seek opportunities to collaborate with forward-thinking organizations.
 
 
