@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priscila
 - 👀 I’m interested in Data Science and Statistics
-- 🌱 I’m currently learning Python for Data Science
+- 🌱 I’m currently learning SQL and Power BI
 - 📫 How to reach me priscilalourinho@gmail.com
 - [![author](https://img.shields.io/badge/author-priscilalourinho-blue.svg)](https://www.linkedin.com/in/priscilalourinho/)
 
